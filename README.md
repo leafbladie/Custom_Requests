@@ -6,6 +6,8 @@ Guideline
 
 -You may create a "issue" as a request but provide links of art if you have art you wish to use and the cards detail.
 
+-If you don't know how to do ether, you may post your cards here. http://duelistsunite.org/forum/forum/84-create-a-card/
+
 -Not all customs will be able to be scripted. There is limits. The ones that cannot will be closed.
 
 -Custom summons or attributes are not allowed. Custom types are still allowed.
