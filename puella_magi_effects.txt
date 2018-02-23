@@ -127,15 +127,15 @@ Sayaka’s Healing
  
 Quick-Play Spell
  
-If you control “Puella Magi - Sayaka Miki”: Place 1 Spell Counter on each “Puella Magi” Pendulum Monster Card in your Monster Zone and Pendulum Zone, also, “Puella Magi” Pendulum Monsters you control cannot be destroyed by battle this turn.
+If you control “Puella Magi - Sayaka Miki”: Place 1 Spell Counter on each “Puella Magi” Pendulum Monster Card in your Monster Zone and Pendulum Zone, also, during this turn, “Puella Magi” Pendulum Monsters you control cannot be destroyed by battle.
  
 ********************************************************************************************************
  
 Kyoko’s Spear
  
 Equip Spell
- 
-Equip only to “Puella Magi - Kyoko Sakura”. It gains 500 ATK. If it attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If it battles, your opponent's cards and effects cannot be activated until the end of the Damage Step.
+
+Equip only to “Puella Magi - Kyoko Sakura”. It gains 500 ATK, if it attacks a Defense Position monster, inflict double piercing battle damage to your opponent, also if it battles, your opponent's cards and effects cannot be activated until the end of the Damage Step. 
  
 ********************************************************************************************************
  
