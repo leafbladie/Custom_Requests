@@ -1,0 +1,146 @@
+Main Deck Monsters (6 Cards)
+ 
+Madoka Kaname
+ 
+Spellcaster-Type/EARTH/Level 8/ATK 0/DEF 0 Scale: 4/4
+ 
+Pendulum:
+Once per turn, if you have a "Puella Magi" card in your other Pendulum Zone: You can increase this card's Pendulum Scale by 5. Each time a “Puella Magi” Pendulum Monster Card(s) in your Monster Zone or Pendulum Zone is destroyed, place 1 Spell Counter on this card for each of those cards (max. 5). Once per turn, if you control "Puella Magi Incubator - Kyubey": You can remove 5 Spell Counters from this card; destroy all cards on the field, then, Special Summon 1 “Ultimate Madoka” from your Extra Deck.
+ 
+Flavor: An ordinary girl who tries her best to do the right thing. Behind her small demeanor she hides a great potential.
+ 
+********************************************************************************************************
+ 
+Puella Magi - Homura Akemi
+ 
+Spellcaster-Type/DARK/Level 8/ATK 1700/DEF 2200 Scale: 7/7
+ 
+Pendulum: You cannot Special Summon monsters, except "Puella Magi" monsters. This effect cannot be negated. When this card is activated: Place 1 Spell Counter on it (max. 1). When an opponent's monster activates its effect: Remove 1 Spell Counter from this card; negate the activation, and if you do, destroy this card, also, after that, Set 1 Spell/Trap directly from your Deck, that specifically lists the card "Puella Magi - Homura Akemi" in its text.
+ 
+Monster: If this card is Pendulum Summoned: Place 1 Spell Counter on it (max. 2). If this card is Special Summoned by the effect of “Puella Magi Incubator - Kyubey”: Place 2 Spell Counters on it. This card gains 300 ATK/DEF for each Spell Counter on it. When your opponent activates a card or effect that targets "Madoka Kaname" you control and/or a "Puella Magi" Pendulum Monster Card in your Monster Zone or Pendulum Zone (Quick Effect): You can remove 1 Spell Counter from this card; negate the activation.
+ 
+********************************************************************************************************
+ 
+Puella Magi - Sayaka Miki
+ 
+Spellcaster-Type/WATER/Level 8/ATK 1900/DEF 2400 Scale: 9/9
+ 
+Pendulum: You cannot Special Summon monsters, except "Puella Magi" monsters. This effect cannot be negated. When this card is activated: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card; Special Summon 1 “Puella Magi” monster from your hand or GY, and if you do, destroy this card, also, after that, Set 1 Spell/Trap directly from your Deck, that specifically lists the card "Puella Magi - Sayaka Miki" in its text. (This is treated as a Special Summon with the effect of "Puella Magi Incubator - Kyubey".)
+ 
+Monster: If this card is Pendulum Summoned: Place 1 Spell Counter on it (max. 2). If this card is Special Summoned by the effect of “Puella Magi Incubator - Kyubey”: Place 2 Spell Counters on it. This card gains 300 ATK/DEF for each Spell Counter on it. Once per turn: You can remove any number of Spell Counters from this card, then target the same number of "Puella Magi" Pendulum Monster Cards in your Monster Zone or Pendulum Zone, except "Puella Magi - Sayaka Miki"; place as many Spell Counters on those cards as possible.
+ 
+********************************************************************************************************
+ 
+Puella Magi - Mami Tomoe
+ 
+Spellcaster-Type/LIGHT/Level 8/ATK 2000/DEF 1500 Scale: 7/7
+ 
+Pendulum: You cannot Special Summon monsters, except "Puella Magi" monsters. This effect cannot be negated. When this card is activated: Place 1 Spell Counter on it (max. 1). When a monster your opponent controls declares an attack: You can remove 1 Spell Counter from this card; negate the attack, and if you do, destroy this card, also, after that, Set 1 Spell/Trap directly from your Deck, that specifically lists the card "Puella Magi - Mami Tomoe" in its text.
+ 
+Monster: If this card is Pendulum Summoned: Place 2 Spell Counters on it (max. 3). If this card is Special Summoned by the effect of “Puella Magi Incubator - Kyubey”: Place 3 Spell Counters on it. This card gains 300 ATK/DEF for each Spell Counter on it. Once per turn (Quick Effect): You can remove any number of Spell Counters from this card; change the battle positions of up to that many of your opponent's face-up monsters.
+ 
+********************************************************************************************************
+ 
+Puella Magi - Kyoko Sakura
+ 
+Spellcaster-Type/FIRE/Level 8/ATK 2100/DEF 2000 Scale: 7/7
+ 
+Pendulum: You cannot Special Summon monsters, except "Puella Magi" monsters. This effect cannot be negated. When this card is activated: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card; destroy this card, and if you do, during this turn your opponent cannot activate cards or effects when you Normal or Special Summon a "Puella Magi" monster(s), also, after that, Set 1 Spell/Trap directly from your Deck, that specifically lists the card "Puella Magi - Kyoko Sakura" in its text.
+ 
+Monster: If this card is Pendulum Summoned: Place 1 Spell Counter on it (max. 2). If this card is Special Summoned by the effect of “Puella Magi Incubator - Kyubey”: Place 2 Spell Counters on it. This card gains 300 ATK/DEF for each Spell Counter on it. Once per turn: You can remove any number of Spell Counters from this card; Special Summon that many “Puella Magi - Rosso Fantasma Tokens” (Spellcaster/FIRE/Level 8/ATK 2100/DEF 2000), but they cannot attack directly. While you control a "Puella Magi - Rosso Fantasma Token", "Puella Magi" Pendulum Monsters you control cannot be destroyed by battle or card effects.
+ 
+********************************************************************************************************
+ 
+Puella Magi - Madoka Kaname
+ 
+Spellcaster-Type/EARTH/Level 8/ATK 2500/DEF 2000 Scale 9/9
+ 
+Pendulum: You cannot Special Summon monsters, except "Puella Magi" monsters. This effect cannot be negated. When this card is activated: Place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card, then target 1 "Puella Magi" Pendulum Monster you control; destroy this card, and if you do, that target gains 1000 ATK until the end of this turn, also, after that, Set 1 Spell/Trap directly from your Deck, that specifically lists the card "Puella Magi - Madoka Kaname" in its text.
+ 
+Monster: If this card is Special Summoned by the effect of “Puella Magi Incubator - Kyubey”: Place 1 Spell Counter on it (max. 1). This card gains 500 ATK/DEF for each Spell Counter on it. Once per turn: You can remove 1 Spell Counter from this card, then target 1 card your opponent controls; destroy it.
+ 
+********************************************************************************************************
+ 
+Extra Deck Monsters (2 Cards)
+ 
+Puella Magi Incubator - Kyubey
+ 
+Spellcaster-Type/DARK/Link 2/ATK 0 Arrows: L, R (Link)
+ 
+2 "Puella Magi" monsters
+ 
+If this card is Special Summoned: You can add 1 "Incubator's" Spell/Trap from your Deck to your hand. During your Main Phase: You can Special Summon any number of "Puella Magi" monsters with different names from your hand or Extra Deck. If this card is in your GY while you control a "Puella Magi" card in your Pendulum Zone: You can Special Summon this card. You can only use each effect of "Puella Magi Incubator - Kyubey" once per turn.
+ 
+********************************************************************************************************
+ 
+Ultimate Madoka
+ 
+Spellcaster-Type/LIGHT/Link 3/ATK 3500 Arrows: DL, D, DR
+ 
+Cannot be Link Summoned. Must be Special Summoned by the effect of "Madoka Kaname". Unaffected by other cards' effects. Once per turn: You can target any number of "Puella Magi" Pendulum Monster Cards in your Monster Zone or Pendulum Zone; place as many Spell Counters on those cards as possible.
+ 
+********************************************************************************************************
+ 
+Spell/Traps (7 Cards)
+ 
+Holy Quintet
+ 
+Normal Spell
+ 
+Apply these effects, in sequence, based on the number of “Puella Magi” Pendulum Monsters with different names you control.
+● 1+: Add 1 "Puella Magi" Pendulum Monster from your Deck to your hand.
+● 2+: All "Puella Magi" Pendulum Monsters you currently control gain 500 ATK until the end of this turn.
+● 3+: Add up to 2 face-up "Puella Magi" Pendulum Monsters in your Extra Deck to your hand.
+● 4+: Inflict 1000 damage to your opponent.
+● 5+: Send all cards your opponent controls to the GY.
+ 
+********************************************************************************************************
+ 
+Incubator's Contract
+ 
+Normal Spell
+ 
+Destroy 1 "Puella Magi" card you control, and if you do, add 1 "Madoka Kaname" and 1 “Puella Magi” Pendulum Monster from your Deck to your hand.
+ 
+********************************************************************************************************
+ 
+Madoka's Friends
+ 
+Normal Spell
+ 
+If you control a "Madoka Kaname" card: Add 2 "Puella Magi" Pendulum Monsters with different names from your Deck to your hand, except "Puella Magi - Madoka Kaname". You can only activate 1 "Madoka's Friends" per turn.
+ 
+********************************************************************************************************
+ 
+Homura's Shield
+ 
+Continuous Spell
+ 
+Each time a “Puella Magi” Pendulum Monster Card(s) in your Monster Zone or Pendulum Zone is destroyed, place 1 Time Counter on this card for each of those cards (max. 3). Once per turn, if you control "Puella Magi - Homura Akemi": You can remove 3 Time Counters from this card, then activate 1 of these effects;
+● Skip your opponent's next Draw Phase.
+● Skip your opponent’s next Main Phase 1.
+● Skip your opponent's next Battle Phase.
+ 
+********************************************************************************************************
+ 
+Sayaka’s Healing
+ 
+Quick-Play Spell
+ 
+If you control “Puella Magi - Sayaka Miki”: Place 1 Spell Counter on each “Puella Magi” Pendulum Monster Card in your Monster Zone and Pendulum Zone, also, “Puella Magi” Pendulum Monsters you control cannot be destroyed by battle this turn.
+ 
+********************************************************************************************************
+ 
+Kyoko’s Spear
+ 
+Equip Spell
+ 
+Equip only to “Puella Magi - Kyoko Sakura”. It gains 500 ATK. If it attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If it battles, your opponent's cards and effects cannot be activated until the end of the Damage Step.
+ 
+********************************************************************************************************
+ 
+Mami’s Ribbons
+ 
+Normal Trap
+ 
+If you control “Puella Magi - Mami Tomoe”: Banish all Defense Position monsters your opponent controls.
