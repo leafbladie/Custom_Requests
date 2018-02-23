@@ -2,7 +2,7 @@ Main Deck Monsters (6 Cards)
  
 Madoka Kaname
  
-Spellcaster-Type/EARTH/Level 8/ATK 0/DEF 0 Scale: 4/4
+Spellcaster-Type/EARTH/Level 8/ATK 0/DEF 0 Scale: 5/5
  
 Pendulum:
 Once per turn, if you have a "Puella Magi" card in your other Pendulum Zone: You can increase this card's Pendulum Scale by 5. Each time a “Puella Magi” Pendulum Monster Card(s) in your Monster Zone or Pendulum Zone is destroyed, place 1 Spell Counter on this card for each of those cards (max. 5). Once per turn, if you control "Puella Magi Incubator - Kyubey": You can remove 5 Spell Counters from this card; destroy all cards on the field, then, Special Summon 1 “Ultimate Madoka” from your Extra Deck.
